@@ -1,11 +1,33 @@
-https://pusher.com/
-https://www.netlify.com/
-https://www.hostinger.com/
-https://www.ionos.com/
-https://jitsi.org/
-https://peerjs.com/
-https://github.com/peers/peerjs
-https://getstream.io/
-https://livekit.io/
-https://mediasoup.org/
-https://openvidu.io/
+🔹 Pusher
+Pusher provides real-time communication APIs that let developers add features like live chat, notifications, presence, and real-time data updates to their applications using WebSockets and HTTP streaming.
+
+🔹 Netlify
+Netlify is a modern cloud platform for building and deploying fast, secure, and scalable web applications. It supports CI/CD pipelines, serverless functions, and edge deployments — all from a Git-based workflow.
+
+🔹 Hostinger
+Hostinger is a user-friendly web hosting provider offering shared, VPS, and cloud hosting at competitive prices. It’s known for its speed, simplicity, and full-featured dashboard ideal for beginners and professionals alike.
+
+🔹 IONOS
+IONOS by 1&1 is a robust hosting and cloud infrastructure provider offering web hosting, domains, dedicated servers, and enterprise cloud solutions with a strong focus on security, reliability, and scalability.
+
+🔹 Jitsi
+Jitsi is a free, open-source platform for secure video conferencing. It offers tools like Jitsi Meet for instant video calls and Jitsi Videobridge for building scalable group video applications.
+
+🔹 PeerJS
+PeerJS simplifies WebRTC peer-to-peer connections in the browser by providing a reliable JavaScript API and signaling server, making it easy to build real-time video, audio, or data-sharing apps.
+
+🔹 PeerJS GitHub
+The official GitHub repository of PeerJS where developers can explore the source code, contribute to development, and access examples and documentation to build custom P2P apps using WebRTC.
+
+🔹 Stream (GetStream.io)
+Stream provides scalable APIs for building activity feeds, chat messaging, and notifications. It powers in-app messaging for apps like social networks, marketplaces, and team collaboration tools.
+
+🔹 LiveKit
+LiveKit is a powerful open-source platform for building real-time audio and video experiences. It offers full SDKs for web, mobile, and server, enabling low-latency video rooms and media processing.
+
+🔹 Mediasoup
+Mediasoup is a cutting-edge WebRTC SFU (Selective Forwarding Unit) designed for developers building large-scale, low-latency video conferencing solutions with full control over media routing and processing.
+
+🔹 OpenVidu
+OpenVidu is an open-source video conferencing platform that simplifies the integration of WebRTC into applications. It offers powerful APIs and supports features like screen sharing, recording, and multi-party video calls.
+

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Squid Consultancy Group Logo" width="150"/>
+  <img src="src/assets/logo.png" alt="Squid Consultancy Group Logo" width="150"/>
 </p>
 
 <h1 align="center">Squid Consultancy Group</h1>

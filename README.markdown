@@ -170,8 +170,113 @@ SCG’s Business Analytics service uncovers actionable insights through data ana
 Digital Design produces visually compelling assets for websites, social media, and ads, ensuring consistent branding. Content Creation delivers SEO-optimized blogs, evergreen landing pages, and engaging social posts, aligning with both organic and paid strategies to drive engagement and conversions.
 
 ### Business Intelligence
-Leverage data-driven insights to optimize your operations, make informed strategic decisions, and identify new growth opportunities, positioning your business for long-term success.
+Squid Consultancy Group (SCG) delivers Business Intelligence (BI) Consulting, empowering businesses to make data-driven decisions. Using Python libraries like Pandas and NumPy for data analysis and Power BI or Tableau for visualization, our experts design tailored BI strategies. This service uncovers actionable insights, optimizing operations and market strategies. Pricing starts at $2,000 for assessments, with flexible plans to suit your needs, ensuring cost-effective access to transformative analytics.
 
+Our Data Integration service unifies disparate data sources, leveraging Pandas and SQLAlchemy to ensure accuracy and accessibility. SCG connects CRMs, ERPs, and APIs, enabling seamless analytics for customer insights and efficiency. By streamlining decision-making, we help businesses stay agile, with costs from $3,000 for standard integrations, scaled to complexity, offering a clear path to data-driven success.
+
+SCG’s Data Warehousing service builds scalable repositories using Snowflake or AWS Redshift, with Pandas and Dask for efficient data processing. These solutions support real-time analytics for e-commerce or financial platforms, driving strategic decisions. Pricing begins at $5,000 for setup, with maintenance from $500/month, providing a robust foundation for BI and AI applications at an accessible cost.
+
+Reporting and Dashboard Development transforms data into intuitive visuals using Power BI, Tableau, and Matplotlib. SCG creates interactive dashboards for KPIs, sales, or market trends, enhanced by Seaborn for advanced visualizations. This empowers teams to act swiftly, with costs starting at $4,000, tailored to deliver impactful insights without straining your budget.
+
+Our Data Analytics service leverages Scikit-learn and Statsmodels to uncover patterns in structured and unstructured data. SCG applies regression models (e.g., linear regression, logistic regression) and clustering (e.g., K-means) to analyze customer behavior or market trends, driving informed decisions. Costs start at $3,000, with scalable plans ensuring deep insights for businesses of all sizes.
+
+SCG’s Predictive Modeling service uses TensorFlow and PyTorch for advanced ML models, from decision trees and random forests to deep learning models like Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs). These forecast sales or stock market trends, enhancing proactive strategies. Pricing begins at $5,000, with customized options to fit your forecasting goals.
+
+Data Visualization makes complex data accessible through compelling visuals, using Plotly, Seaborn, and Tableau. SCG designs interactive charts and dashboards, supporting decision-making for non-technical users. Costs start at $2,500, with flexible solutions that ensure clarity and impact, helping teams leverage insights effectively.
+
+Our AI-Driven Automation service streamlines tasks using NLTK, SpaCy, and Transformers for NLP, alongside generative AI models. SCG automates report generation, customer queries, or data processing, reducing costs and errors. Pricing starts at $5,000, with plans to integrate automation seamlessly, boosting efficiency while aligning with your budget.
+
+SCG’s Self-Service BI Solutions empower users with tools like ThoughtSpot or Power BI, enhanced by Pandas for data manipulation. Featuring natural language querying, these solutions enable independent analytics, driving faster decisions. Costs begin at $3,000 for setup, with affordable subscriptions to democratize data access across your organization.
+
+Our Custom AI Solutions deliver bespoke applications, from sentiment analysis using BERT to recommendation engines with deep learning. SCG employs Gradient Boosting (e.g., XGBoost), Support Vector Machines (SVMs), and Generative Adversarial Networks (GANs), built with TensorFlow and PyTorch, to enhance personalization or fraud detection. Costs start at $10,000, tailored to deliver innovative, high-ROI outcomes.
+
+Building BI and AI Solutions from Scratch: Costs, Timelines, and Services
+
+Building BI and AI solutions from scratch, such as e-commerce analytics platforms or stock exchange analytics systems, leverages SCG’s expertise in Pandas, Scikit-learn, TensorFlow, PyTorch, NLTK, SpaCy, and Tableau. We use linear regression, logistic regression, decision trees, random forests, K-means clustering, SVMs, Gradient Boosting, CNNs, RNNs, Transformers, and GANs to power analytics and decision-making, ensuring precise insights for market trends, customer behavior, or fraud detection. Below are cost and timeline estimates, informed by industry standards and SCG’s capabilities:
+
+
+
+
+
+Basic E-commerce Analytics Platform: Includes sales dashboards and customer behavior tracking. Built with Power BI and Scikit-learn for linear regression, costs range from $10,000–$30,000 (2–4 months). Features include KPI tracking and Pandas-based data integration.
+
+
+
+Mid-Level E-commerce Analytics Platform: Adds recommendation engines using TensorFlow’s CNNs and sentiment analysis with SpaCy. Costs range from $30,000–$80,000 (3–6 months), using Snowflake and Plotly for scalability and visualization.
+
+
+
+Enterprise E-commerce Analytics Platform: Supports multi-channel analytics and predictive modeling with XGBoost and RNNs. Costs range from $80,000–$200,000 (6–12 months), using AWS QuickSight and PyTorch for advanced insights.
+
+
+
+Stock Exchange Analytics Platform: Requires real-time analysis and anomaly detection using Transformers and GANs. Built with Node.js, React, and TensorFlow, costs range from $100,000–$500,000+ (6–18 months). Includes NLP for news sentiment and blockchain for secure data.
+
+Cost Optimization Strategies:
+
+
+
+
+
+Use open-source libraries like Pandas, Scikit-learn, or Apache Superset to reduce costs.
+
+
+
+Leverage cloud platforms like AWS or Azure for scalable infrastructure.
+
+
+
+Launch a Minimum Viable Product (MVP) to deploy core analytics quickly.
+
+
+
+Outsource to regions like India ($25–$50/hour) versus US/UK ($100–$200/hour).
+
+SCG’s Services for Building from Scratch:
+
+
+
+
+
+BI Consulting: Designs BI strategies using Pandas and Tableau.
+
+
+
+Data Integration: Unifies data with SQLAlchemy and Pandas.
+
+
+
+Data Warehousing: Builds repositories with Snowflake and Dask.
+
+
+
+Reporting and Dashboard Development: Creates dashboards with Power BI and Matplotlib.
+
+
+
+Data Analytics: Applies Scikit-learn for regression and clustering.
+
+
+
+Predictive Modeling: Develops CNNs and RNNs with TensorFlow.
+
+
+
+Data Visualization: Designs visuals with Plotly and Seaborn.
+
+
+
+AI-Driven Automation: Automates tasks with NLTK and Transformers.
+
+
+
+Self-Service BI Solutions: Deploys tools like ThoughtSpot.
+
+
+
+Custom AI Solutions: Builds recommendation engines with PyTorch.
+
+SCG’s mastery of Python libraries and deep learning drives precise, data-driven decisions. Our flexible pricing—starting at $2,000 for consulting and scaling with complexity—ensures accessibility. Contact us for a free consultation to unlock your data’s potential.
 ### Graphic Design
 Create striking logos, branding, and marketing materials to establish a professional and cohesive visual identity that resonates with your target audience and strengthens brand recognition.
 

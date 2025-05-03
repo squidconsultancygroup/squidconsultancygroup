@@ -4,7 +4,7 @@
 
 <h1 align="center">Squid Consultancy Group</h1>
 
-<p align="center"><i>Empowering Your Digital Presence</i></p>
+<p align="center"><i>Smart Solutions for B2B and B2C Enterprises</i></p>
 
 <p align="center">
   <a href="mailto:squidconsultancyteam@gmail.com"><img src="https://img.shields.io/badge/Email-squidconsultancyteam%40gmail.com-blue" alt="Email"></a>

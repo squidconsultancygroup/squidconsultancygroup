@@ -83,7 +83,6 @@ Our track record demonstrates success in helping businesses enhance their online
 ## Contact Us
 
 - **Email**: squidconsultancyteam@gmail.com  
-- **Phone**: +44 7752 106224  
 - **Location**: Glasgow, Glasgow City, United Kingdom, G12 8RQ  
 - **Working Hours**:  
   - Monday to Friday: 09:00 AM – 06:00 PM  

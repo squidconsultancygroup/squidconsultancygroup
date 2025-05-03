@@ -278,8 +278,113 @@ Custom AI Solutions: Builds recommendation engines with PyTorch.
 
 SCG’s mastery of Python libraries and deep learning drives precise, data-driven decisions. Our flexible pricing—starting at $2,000 for consulting and scaling with complexity—ensures accessibility. Contact us for a free consultation to unlock your data’s potential.
 ### Graphic Design
-Create striking logos, branding, and marketing materials to establish a professional and cohesive visual identity that resonates with your target audience and strengthens brand recognition.
+Squid Consultancy Group (SCG) excels in Logo Design, creating memorable, versatile logos that define your brand identity. Using tools like Adobe Illustrator and Canva, our designers craft logos that resonate with your audience and scale across digital and print media. This service boosts brand recognition and customer trust, with pricing starting at $500 for a custom logo, tailored to your vision and budget, ensuring a professional emblem that stands out.
 
+Our Branding and Visual Identity service develops cohesive brand aesthetics, including color palettes, typography, and style guides. Leveraging Adobe InDesign and Figma, SCG ensures consistency across all touchpoints, enhancing brand recall and professionalism. Costs begin at $2,000 for a comprehensive branding package, with flexible options to suit startups or established businesses, delivering a unified identity that drives loyalty.
+
+SCG’s Social Media Graphics service creates eye-catching visuals for platforms like Instagram, LinkedIn, and X. Using Adobe Photoshop and Canva, we design posts, stories, and ads that engage audiences and amplify your online presence. Pricing starts at $100 per graphic or $500 for a monthly package of 10 posts, offering cost-effective solutions to maintain a vibrant social media strategy.
+
+Web and UI/UX Design enhances digital experiences with visually appealing, user-friendly interfaces. SCG uses Figma and Adobe XD to design website layouts, app interfaces, and landing pages, improving user engagement and conversions. Costs range from $1,000 for a single landing page to $5,000 for a multi-page site, with pricing tailored to project complexity, ensuring intuitive designs that captivate users.
+
+Our Print Design service produces stunning materials like brochures, flyers, and business cards. Using Adobe InDesign and Illustrator, SCG crafts high-quality print assets that elevate marketing campaigns and leave lasting impressions. Pricing starts at $300 for a single-sided flyer or $1,000 for a tri-fold brochure, with affordable packages to meet your promotional needs.
+
+SCG’s Packaging Design creates distinctive product packaging that stands out on shelves. Using Adobe Photoshop and Illustrator, we design labels, boxes, and wrappers that reflect your brand and attract customers. Costs begin at $500 for simple packaging, scaling to $2,000 for complex designs, offering tailored solutions to enhance product appeal and sales.
+
+Motion Graphics bring your brand to life with dynamic animations for ads, social media, or presentations. SCG leverages Adobe After Effects and Premiere Pro to create engaging videos that capture attention. Pricing starts at $1,000 for a 15-second animation, with flexible plans to fit your marketing goals, ensuring high-impact visuals that resonate with audiences.
+
+Our Infographic Design service transforms complex data into compelling visuals. Using Adobe Illustrator and Canva, SCG creates clear, engaging infographics for reports, marketing, or social media. Costs range from $200 for simple infographics to $1,000 for detailed designs, providing cost-effective ways to communicate insights and boost engagement.
+
+SCG’s Illustration service delivers custom artwork, from editorial illustrations to product visuals. Using Procreate and Adobe Illustrator, our artists create unique, brand-aligned graphics that enhance storytelling. Pricing starts at $200 for basic illustrations, with customized options to suit your creative needs, ensuring distinctive visuals that captivate.
+
+Our Presentation Design service crafts professional, visually striking slide decks. Using Adobe InDesign and Google Slides, SCG designs presentations that engage stakeholders and convey messages clearly. Costs begin at $300 for a 10-slide deck, with scalable pricing to deliver polished presentations that elevate your pitches or reports.
+
+Building Graphic Design Solutions from Scratch: Costs, Timelines, and Services
+
+Building graphic design solutions from scratch, such as branding packages or social media campaigns, leverages SCG’s expertise in Adobe Creative Suite, Figma, and Canva. Our designs drive brand recognition, audience engagement, and conversions, ensuring high-impact visuals tailored to your goals. Below are cost and timeline estimates, informed by industry standards and SCG’s capabilities:
+
+
+
+
+
+Basic Branding Package: Includes logo, business cards, and social media templates. Built with Adobe Illustrator and Canva, costs range from $1,500–$3,000 (1–2 months). Features include a style guide and three revisions.
+
+
+
+Comprehensive Branding Package: Adds stationery, packaging, and brand guidelines. Costs range from $5,000–$15,000 (2–4 months), using InDesign and Figma for cohesive identity across channels.
+
+
+
+Social Media Campaign: Includes 20 posts, ads, and stories. Built with Photoshop and Canva, costs range from $1,000–$5,000 (1–3 months), ensuring consistent, engaging visuals.
+
+
+
+Marketing Campaign Package: Covers brochures, flyers, and digital ads. Costs range from $3,000–$10,000 (2–4 months), using Illustrator and After Effects for print and motion graphics.
+
+Cost Optimization Strategies:
+
+
+
+
+
+Use subscription-based tools like Canva to reduce software costs.
+
+
+
+Opt for package deals to bundle services at a discount.
+
+
+
+Launch with a Minimum Viable Design (MVD) to deliver core assets quickly.
+
+
+
+Outsource to cost-effective regions like India ($25–$50/hour) versus US/UK ($75–$150/hour).
+
+SCG’s Services for Building from Scratch:
+
+
+
+
+
+Logo Design: Creates iconic logos with Illustrator.
+
+
+
+Branding and Visual Identity: Develops cohesive aesthetics using InDesign.
+
+
+
+Social Media Graphics: Designs engaging posts with Photoshop.
+
+
+
+Web and UI/UX Design: Builds intuitive interfaces with Figma.
+
+
+
+Print Design: Produces brochures and flyers with InDesign.
+
+
+
+Packaging Design: Crafts standout packaging with Illustrator.
+
+
+
+Motion Graphics: Creates animations with After Effects.
+
+
+
+Infographic Design: Visualizes data with Canva.
+
+
+
+Illustration: Delivers custom artwork with Procreate.
+
+
+
+Presentation Design: Designs slides with Google Slides.
+
+SCG’s expertise in industry-standard tools ensures stunning, effective designs. Our flexible pricing—starting at $100 for graphics and scaling with complexity—makes professional design accessible. Contact us for a free consultation to bring your brand to life.
 ## Why Choose Us?
 
 ### Expertise

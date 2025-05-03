@@ -34,15 +34,7 @@ Why sail with us? Our crew brings years of expertise, crafting solutions that fi
 
 <p align="center">🌊 <b>Ready to dive in?</b> Book a free consultation to chart your digital journey.</p>
 
-## Get Involved
-
-**Businesses**: Ready to elevate your digital presence? Contact us to schedule a consultation and discover how we can drive your business forward.  
-**Developers**: Interested in collaboration? Explore our [repositories](https://github.com/your-username?tab=repositories) for opportunities to contribute.  
-**Community Members**: Stay informed on digital trends by following us on [LinkedIn](https://linkedin.com/company/squid-consultancy-group) and [X](https://x.com/squidconsultgrp).
-
-<p align="center">
-  <a href="mailto:squidconsultancyteam@gmail.com"><b>Get in Touch</b></a>
-</p>
+**Community Members**: Stay informed on digital trends by following us on [LinkedIn](https://linkedin.com/company/squid-consultancy-group) 
 
 ## Contact Us
 

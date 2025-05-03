@@ -1,51 +1,93 @@
-# Squid Consultancy Group 🦑
+<p align="center">
+  <img src="assets/logo.png" alt="Squid Consultancy Group Logo" width="150"/>
+</p>
 
-![Squid Consultancy Group Banner](https://via.placeholder.com/1200x300.png?text=Squid+Consultancy+Group)
+<h1 align="center">Squid Consultancy Group</h1>
 
-Welcome to the GitHub profile of **Squid Consultancy Group**, a dynamic consultancy empowering businesses with innovative technology, strategic marketing, and creative solutions. Based in the UK, we partner with freelancers, startups, and established enterprises to drive growth, streamline operations, and enhance digital presence.
+<p align="center"><i>Empowering Your Digital Presence</i></p>
+
+<p align="center">
+  <a href="mailto:squidconsultancyteam@gmail.com"><img src="https://img.shields.io/badge/Email-squidconsultancyteam%40gmail.com-blue" alt="Email"></a>
+  <a href="tel:+447752106224"><img src="https://img.shields.io/badge/Phone-%2B44%207752%20106224-green" alt="Phone"></a>
+  <a href="https://linkedin.com/company/squid-consultancy-group"><img src="https://img.shields.io/badge/LinkedIn-Squid%20Consultancy-blue" alt="LinkedIn"></a>
+  <a href="https://x.com/squidconsultgrp"><img src="https://img.shields.io/badge/X-SquidConsultancy-black" alt="X"></a>
+</p>
+
+## Table of Contents
+
+- [About Us](#about-us)
+- [Why Digital Transformation Matters](#why-digital-transformation-matters)
+- [Our Services](#our-services)
+- [Why Choose Us](#why-choose-us)
+- [Get Involved](#get-involved)
+- [Contact Us](#contact-us)
 
 ## About Us
-At Squid Consultancy Group, we blend technical expertise with business acumen to deliver tailored solutions. Our mission is to transform ideas into impactful realities through:
-- **Website Development**: Building responsive, user-centric websites.
-- **Marketing Strategy**: Crafting data-driven campaigns to boost brand visibility.
-- **Business Intelligence**: Providing actionable insights for smarter decisions.
-- **Graphic Designing**: Creating visually stunning assets to elevate your brand.
 
-We’re passionate about innovation, adaptability, and client success, inspired by the versatility of the squid—agile, intelligent, and thriving in diverse environments.
+Squid Consultancy Group, headquartered in Glasgow, is a premier digital consultancy committed to empowering local and international businesses with a robust online presence. We specialize in enabling businesses to expand their digital reach and assisting local enterprises in establishing a strong digital identity with confidence and impact.
 
-## What We Do
-Our services are designed to meet the needs of modern businesses:
-- 🌐 **Web Development**: Custom websites and e-commerce platforms using HTML, CSS, JavaScript, and modern frameworks.
-- 📊 **Marketing**: SEO, social media campaigns, and content strategies to reach your audience.
-- 📈 **Analytics**: Business intelligence tools to optimize performance and strategy.
-- 🎨 **Design**: Logos, branding, and UI/UX design to make your brand stand out.
+> Our mission is to connect businesses with their audiences through cutting-edge technology, strategic marketing, and innovative design.
 
-Check out our [registration form project](https://github.com/your-username/squid-registration-form) for a sample of our work—a full-stack solution using Node.js, MongoDB, and a sleek frontend.
+Drawing inspiration from the squid’s adaptability and global reach, we navigate the digital landscape to deliver solutions that resonate across local and international markets.
+
+## Why Digital Transformation Matters
+
+In today’s fast-paced digital economy, businesses that fail to adapt risk falling behind. Research suggests the following key statistics highlight the critical role of digital transformation:
+
+- 63% of businesses have seen improved performance due to digital transformation efforts in recent years ([KPMG, 2023](https://mooncamp.com/blog/digital-transformation-statistics)).
+- 56% of CEOs report that digital improvements have led to increased revenue ([Gartner, 2017](https://mooncamp.com/blog/digital-transformation-statistics)).
+- The global digital transformation market is projected to reach $1,009.8 billion by 2025, growing at a CAGR of 16.5% ([Research&Markets, 2020](https://financesonline.com/digital-transformation-statistics)).
+- 94% of large organizations have a digital transformation strategy in place ([Backlinko, 2025](https://backlinko.com/digital-transformation-stats)).
+- Digitally transformed organizations are expected to contribute over half of the global GDP by 2023, totaling $53.3 trillion ([IDC, 2020](https://financesonline.com/digital-transformation-statistics)).
+
+These figures underscore the necessity for businesses to embrace digital strategies to remain competitive and drive growth.
+
+## Our Services
+
+### Website Development
+Craft custom, responsive websites that showcase your business, ensuring seamless user experiences across all devices. Our websites are optimized for search engines, enhancing visibility and driving customer engagement.
+
+### Marketing Strategy
+Develop comprehensive digital marketing plans, including SEO, social media management, content creation, and paid advertising, to boost brand visibility, attract new customers, and increase revenue.
+
+### Business Intelligence
+Leverage data-driven insights to optimize your operations, make informed strategic decisions, and identify new growth opportunities, positioning your business for long-term success.
+
+### Graphic Design
+Create striking logos, branding, and marketing materials to establish a professional and cohesive visual identity that resonates with your target audience and strengthens brand recognition.
 
 ## Why Choose Us?
-- **Client-Centric**: We listen, adapt, and deliver solutions that align with your goals.
-- **Expert Team**: Our consultants are skilled in tech, marketing, and design, with a focus on quality.
-- **Global Reach**: Serving clients from startups to FAANG companies worldwide.
-- **Open Source**: We contribute to the community through tools, tutorials, and reusable code.
+
+### Expertise
+Our team brings years of experience in digital strategy, technology, and design, delivering high-quality solutions tailored to your business needs.
+
+### Tailored Solutions
+We recognize that every business is unique, offering customized strategies that align with your specific goals and budget.
+
+### Local Focus, Global Reach
+Rooted in Glasgow, we understand local markets while providing solutions that scale internationally, helping businesses of all sizes succeed digitally.
+
+### Proven Results
+Our track record demonstrates success in helping businesses enhance their online presence, increase traffic, and grow their customer base.
 
 ## Get Involved
-- 💻 **Developers**: Explore our repositories, contribute to projects, or join our team. Check our [open issues](https://github.com/your-username?tab=repositories) for opportunities.
-- 🤝 **Clients**: Need a custom solution? Contact us at hello@squidconsultancy.co.uk or submit an inquiry via our [registration form](https://github.com/your-username/squid-registration-form).
-- 🌟 **Community**: Follow us on [LinkedIn](https://linkedin.com/company/squid-consultancy-group) and [Twitter](https://twitter.com/squidconsultgrp) for updates and insights.
 
-## Featured Projects
-- **[Registration Form](https://github.com/your-username/squid-registration-form)**: A full-stack inquiry form with Node.js, MongoDB, and a glassmorphism UI.
-- **Coming Soon**: Open-source tools for business analytics and marketing automation.
+**Businesses**: Ready to elevate your digital presence? Contact us to schedule a consultation and discover how we can drive your business forward.  
+**Developers**: Interested in collaboration? Explore our [repositories](https://github.com/your-username?tab=repositories) for opportunities to contribute.  
+**Community Members**: Stay informed on digital trends by following us on [LinkedIn](https://linkedin.com/company/squid-consultancy-group) and [X](https://x.com/squidconsultgrp).
+
+<p align="center">
+  <a href="mailto:squidconsultancyteam@gmail.com"><b>Get in Touch</b></a>
+</p>
 
 ## Contact Us
-📧 **Email**: hello@squidconsultancy.co.uk  
-📍 **Location**: 1 Squid Lane, London, UK  
-🌐 **Website**: [squidconsultancy.co.uk](https://squidconsultancy.co.uk/) (Under construction)  
-📱 **Phone**: (+44) 123 456 789  
 
-Let’s create something extraordinary together!
+- **Email**: squidconsultancyteam@gmail.com  
+- **Phone**: +44 7752 106224  
+- **Location**: Glasgow, Glasgow City, United Kingdom, G12 8RQ  
+- **Working Hours**:  
+  - Monday to Friday: 09:00 AM – 06:00 PM  
+  - Saturday to Sunday: Closed  
+- **Website**: [squidconsultancy.co.uk](https://squidconsultancy.co.uk/) (Under construction)
 
----
-
-**Squid Consultancy Group | Empowering Your Future**  
-© 2025 Squid Consultancy Group. All rights reserved.
+<p align="center"><b>Squid Consultancy Group</b> | © 2025 Squid Consultancy Group. All rights reserved.</p>

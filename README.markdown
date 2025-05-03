@@ -26,7 +26,7 @@
 
 ## About Us
 
-Squid Consultancy Group, headquartered in Glasgow, is a premier digital consultancy committed to empowering local and international businesses with a robust online presence. We specialize in enabling businesses to expand their digital reach and assisting local enterprises in establishing a strong digital identity with confidence and impact.
+Squid Consultancy Group, Start-up based in Glasgow, is a premier digital consultancy committed to support local and international businesses with an online presence. We specialise in enabling businesses marketing strategy to expand their digital reach and assisting local enterprises in establishing a strong digital identity with confidence and impact.
 
 > Our mission is to connect businesses with their audiences through cutting-edge technology, strategic marketing, and innovative design.
 

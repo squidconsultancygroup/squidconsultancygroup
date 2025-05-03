@@ -1,0 +1,11 @@
+https://pusher.com/
+https://www.netlify.com/
+https://www.hostinger.com/
+https://www.ionos.com/
+https://jitsi.org/
+https://peerjs.com/
+https://github.com/peers/peerjs
+https://getstream.io/
+https://livekit.io/
+https://mediasoup.org/
+https://openvidu.io/

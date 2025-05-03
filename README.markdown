@@ -9,8 +9,7 @@
 <p align="center">
   <a href="mailto:squidconsultancyteam@gmail.com"><img src="https://img.shields.io/badge/Email-squidconsultancyteam%40gmail.com-blue" alt="Email"></a>
   <a href="tel:+447752106224"><img src="https://img.shields.io/badge/Phone-%2B44%207752%20106224-green" alt="Phone"></a>
-  <a href="https://linkedin.com/company/squid-consultancy-group"><img src="https://img.shields.io/badge/LinkedIn-Squid%20Consultancy-blue" alt="LinkedIn"></a>
-  <a href="https://x.com/squidconsultgrp"><img src="https://img.shields.io/badge/X-SquidConsultancy-black" alt="X"></a>
+  <a href="https://linkedin.com/company/squid-consultancy-group"><img src="https://www.linkedin.com/company/squidconsultancy/" alt="LinkedIn"></a>
 </p>
 
 ## Table of Contents

@@ -34,4 +34,23 @@ Why sail with us? Our crew brings years of expertise, crafting solutions that fi
 
 <p align="center">🌊 <b>Ready to dive in?</b> Book a free consultation to chart your digital journey.</p>
 
-Businesses, let’s make your brand unstoppable—email us at squidconsultancyteam@gmail.com. Developers, explore our [GitHub repositories](https://github.com/your-username?tab=repositories) to join the adventure. Community members, follow us on [LinkedIn](https://linkedin.com/company/squid-consultancy-group) or [X](https://x.com/squidconsultgrp) for digital insights. Visit us in Glasgow, G12 8RQ, UK, Monday to Friday, 9:00 AM to 6:00 PM. Our website, [squidconsultancy.co.uk](https://squidconsultancy.co.uk/), is under construction, but our solutions are ready now. Squid Consultancy Group © 2025. All rights reserved.
+## Get Involved
+
+**Businesses**: Ready to elevate your digital presence? Contact us to schedule a consultation and discover how we can drive your business forward.  
+**Developers**: Interested in collaboration? Explore our [repositories](https://github.com/your-username?tab=repositories) for opportunities to contribute.  
+**Community Members**: Stay informed on digital trends by following us on [LinkedIn](https://linkedin.com/company/squid-consultancy-group) and [X](https://x.com/squidconsultgrp).
+
+<p align="center">
+  <a href="mailto:squidconsultancyteam@gmail.com"><b>Get in Touch</b></a>
+</p>
+
+## Contact Us
+
+- **Email**: squidconsultancyteam@gmail.com  
+- **Location**: Glasgow, Glasgow City, United Kingdom, G12 8RQ  
+- **Working Hours**:  
+  - Monday to Friday: 09:00 AM – 06:00 PM  
+  - Saturday to Sunday: Closed  
+- **Website**: [squidconsultancy.co.uk](https://squidconsultancy.co.uk/) (Under construction)
+
+<p align="center"><b>Squid Consultancy Group</b> | © 2025 Squid Consultancy Group. All rights reserved.</p>
